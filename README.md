@@ -1,6 +1,8 @@
 # Drifts-NN
 150 km Equatorial Vertical Drifts
 ###################################
+Author: J. P. Velásquez.
+Email: jpvelasquez@pucp.edu.pe
 Based on:
 F.   S.   Rodrigues,   J.   M.   Smith,   M.   Milla,   and   R.   A.   Stoneback,“Daytime  ionospheric  equatorial  vertical  drifts  during  the  2008–2009extreme  solar  minimum,”Journal  of  Geophysical  Research:  SpacePhysics,  vol.  120,  no.  2,  pp.  1452–1459,  2015.  [Online]. Available:https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2014JA020478.
 ###################################
